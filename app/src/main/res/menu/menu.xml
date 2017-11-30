@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <item
+                android:id="@+id/take"
+                android:icon="@drawable/ic_camera_black_24dp"
+                android:title="Take Photo" />
+            <item
+                android:id="@+id/pick"
+                android:icon="@drawable/ic_photo_library_black_24dp"
+                android:title="Pick photo" />
+
+</menu>
