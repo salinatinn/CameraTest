@@ -141,4 +141,9 @@ public class MainActivity extends AppCompatActivity {
         photoPickerIntent.setType("image/*");
         startActivityForResult(photoPickerIntent, SELECT_PHOTO);
     }
+
+    public  void aaaaa()
+    {
+
+    }
 }
